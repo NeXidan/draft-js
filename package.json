@@ -1,7 +1,7 @@
 {
-  "name": "draft-js",
+  "name": "@nexidan/draft-js",
   "description": "A React framework for building text editors.",
-  "version": "0.10.5",
+  "version": "0.10.4",
   "keywords": [
     "draftjs",
     "editor",
@@ -18,7 +18,7 @@
   ],
   "main": "lib/Draft.js",
   "style": "dist/Draft.css",
-  "repository": "facebook/draft-js",
+  "repository": "nexidan/draft-js",
   "license": "BSD-3-Clause",
   "scripts": {
     "prepublish": "npm run build",
